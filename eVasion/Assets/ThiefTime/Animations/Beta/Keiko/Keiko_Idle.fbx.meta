@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: ff492c785645447429938bb0f1dde6e5
+timeCreated: 1478841428
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ankle_Left
+    100002: Ankle_Right
+    100004: Elbow_Left_2
+    100006: Elbow_Right_2
+    100008: Foot_Left
+    100010: Foot_Right
+    100012: Head
+    100014: Hip
+    100016: Hip_Left
+    100018: Hip_Right
+    100020: Keiko_Base
+    100022: //RootNode
+    100024: Knee_Left
+    100026: Knee_Right
+    100028: Middle_Left_1
+    100030: Middle_Left_2
+    100032: Middle_Left_3
+    100034: Middle_Left_4
+    100036: Middle_Right_2
+    100038: Middle_Right_3
+    100040: Middle_Right_4
+    100042: Neck_1
+    100044: Neck_2
+    100046: Pinky_Left_1
+    100048: Pinky_Left_2
+    100050: Pinky_Left_3
+    100052: Pinky_Left_4
+    100054: Pinky_Right_1
+    100056: Pinky_Right_2
+    100058: Pinky_Right_3
+    100060: Pinky_Right_4
+    100062: Pointer_Left_1
+    100064: Pointer_Left_2
+    100066: Pointer_Left_3
+    100068: Pointer_Left_4
+    100070: Pointer_Right_1
+    100072: Pointer_Right_2
+    100074: Pointer_Right_3
+    100076: Pointer_Right_4
+    100078: RightMiddle_1
+    100080: Ring_Left_1
+    100082: Ring_Left_2
+    100084: Ring_Left_3
+    100086: Ring_Left_4
+    100088: Ring_Right_1
+    100090: Ring_Right_2
+    100092: Ring_Right_3
+    100094: Ring_Right_4
+    100096: Shoulder_Left
+    100098: Shoulder_Right
+    100100: Spine_1
+    100102: Spine_2
+    100104: Spine_3
+    100106: Thumb_Left_1
+    100108: Thumb_Left_2
+    100110: Thumb_Left_3
+    100112: Thumb_Right_1
+    100114: Thumb_Right_2
+    100116: Thumb_Right_3
+    100118: Wrist_Left
+    100120: Wrist_Right
+    400000: Ankle_Left
+    400002: Ankle_Right
+    400004: Elbow_Left_2
+    400006: Elbow_Right_2
+    400008: Foot_Left
+    400010: Foot_Right
+    400012: Head
+    400014: Hip
+    400016: Hip_Left
+    400018: Hip_Right
+    400020: Keiko_Base
+    400022: //RootNode
+    400024: Knee_Left
+    400026: Knee_Right
+    400028: Middle_Left_1
+    400030: Middle_Left_2
+    400032: Middle_Left_3
+    400034: Middle_Left_4
+    400036: Middle_Right_2
+    400038: Middle_Right_3
+    400040: Middle_Right_4
+    400042: Neck_1
+    400044: Neck_2
+    400046: Pinky_Left_1
+    400048: Pinky_Left_2
+    400050: Pinky_Left_3
+    400052: Pinky_Left_4
+    400054: Pinky_Right_1
+    400056: Pinky_Right_2
+    400058: Pinky_Right_3
+    400060: Pinky_Right_4
+    400062: Pointer_Left_1
+    400064: Pointer_Left_2
+    400066: Pointer_Left_3
+    400068: Pointer_Left_4
+    400070: Pointer_Right_1
+    400072: Pointer_Right_2
+    400074: Pointer_Right_3
+    400076: Pointer_Right_4
+    400078: RightMiddle_1
+    400080: Ring_Left_1
+    400082: Ring_Left_2
+    400084: Ring_Left_3
+    400086: Ring_Left_4
+    400088: Ring_Right_1
+    400090: Ring_Right_2
+    400092: Ring_Right_3
+    400094: Ring_Right_4
+    400096: Shoulder_Left
+    400098: Shoulder_Right
+    400100: Spine_1
+    400102: Spine_2
+    400104: Spine_3
+    400106: Thumb_Left_1
+    400108: Thumb_Left_2
+    400110: Thumb_Left_3
+    400112: Thumb_Right_1
+    400114: Thumb_Right_2
+    400116: Thumb_Right_3
+    400118: Wrist_Left
+    400120: Wrist_Right
+    7400000: Keiko_Idle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Keiko_Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Keiko_Base
+        weight: 1
+      - path: Keiko_Base/Hip
+        weight: 1
+      - path: Keiko_Base/Hip/Hip_Left
+        weight: 1
+      - path: Keiko_Base/Hip/Hip_Left/Knee_Left
+        weight: 1
+      - path: Keiko_Base/Hip/Hip_Left/Knee_Left/Ankle_Left
+        weight: 1
+      - path: Keiko_Base/Hip/Hip_Left/Knee_Left/Ankle_Left/Foot_Left
+        weight: 1
+      - path: Keiko_Base/Hip/Hip_Right
+        weight: 1
+      - path: Keiko_Base/Hip/Hip_Right/Knee_Right
+        weight: 1
+      - path: Keiko_Base/Hip/Hip_Right/Knee_Right/Ankle_Right
+        weight: 1
+      - path: Keiko_Base/Hip/Hip_Right/Knee_Right/Ankle_Right/Foot_Right
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Neck_1
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Neck_1/Neck_2
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Neck_1/Neck_2/Head
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Left
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Left/Elbow_Left_2
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Left/Elbow_Left_2/Wrist_Left
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Left/Elbow_Left_2/Wrist_Left/Middle_Left_1
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Left/Elbow_Left_2/Wrist_Left/Middle_Left_1/Middle_Left_2
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Left/Elbow_Left_2/Wrist_Left/Middle_Left_1/Middle_Left_2/Middle_Left_3
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Left/Elbow_Left_2/Wrist_Left/Middle_Left_1/Middle_Left_2/Middle_Left_3/Middle_Left_4
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Left/Elbow_Left_2/Wrist_Left/Pinky_Left_1
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Left/Elbow_Left_2/Wrist_Left/Pinky_Left_1/Pinky_Left_2
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Left/Elbow_Left_2/Wrist_Left/Pinky_Left_1/Pinky_Left_2/Pinky_Left_3
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Left/Elbow_Left_2/Wrist_Left/Pinky_Left_1/Pinky_Left_2/Pinky_Left_3/Pinky_Left_4
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Left/Elbow_Left_2/Wrist_Left/Pointer_Left_1
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Left/Elbow_Left_2/Wrist_Left/Pointer_Left_1/Pointer_Left_2
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Left/Elbow_Left_2/Wrist_Left/Pointer_Left_1/Pointer_Left_2/Pointer_Left_3
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Left/Elbow_Left_2/Wrist_Left/Pointer_Left_1/Pointer_Left_2/Pointer_Left_3/Pointer_Left_4
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Left/Elbow_Left_2/Wrist_Left/Ring_Left_1
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Left/Elbow_Left_2/Wrist_Left/Ring_Left_1/Ring_Left_2
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Left/Elbow_Left_2/Wrist_Left/Ring_Left_1/Ring_Left_2/Ring_Left_3
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Left/Elbow_Left_2/Wrist_Left/Ring_Left_1/Ring_Left_2/Ring_Left_3/Ring_Left_4
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Left/Elbow_Left_2/Wrist_Left/Thumb_Left_1
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Left/Elbow_Left_2/Wrist_Left/Thumb_Left_1/Thumb_Left_2
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Left/Elbow_Left_2/Wrist_Left/Thumb_Left_1/Thumb_Left_2/Thumb_Left_3
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Right
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Right/Elbow_Right_2
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Right/Elbow_Right_2/Wrist_Right
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Right/Elbow_Right_2/Wrist_Right/Pinky_Right_1
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Right/Elbow_Right_2/Wrist_Right/Pinky_Right_1/Pinky_Right_2
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Right/Elbow_Right_2/Wrist_Right/Pinky_Right_1/Pinky_Right_2/Pinky_Right_3
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Right/Elbow_Right_2/Wrist_Right/Pinky_Right_1/Pinky_Right_2/Pinky_Right_3/Pinky_Right_4
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Right/Elbow_Right_2/Wrist_Right/Pointer_Right_1
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Right/Elbow_Right_2/Wrist_Right/Pointer_Right_1/Pointer_Right_2
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Right/Elbow_Right_2/Wrist_Right/Pointer_Right_1/Pointer_Right_2/Pointer_Right_3
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Right/Elbow_Right_2/Wrist_Right/Pointer_Right_1/Pointer_Right_2/Pointer_Right_3/Pointer_Right_4
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Right/Elbow_Right_2/Wrist_Right/RightMiddle_1
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Right/Elbow_Right_2/Wrist_Right/RightMiddle_1/Middle_Right_2
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Right/Elbow_Right_2/Wrist_Right/RightMiddle_1/Middle_Right_2/Middle_Right_3
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Right/Elbow_Right_2/Wrist_Right/RightMiddle_1/Middle_Right_2/Middle_Right_3/Middle_Right_4
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Right/Elbow_Right_2/Wrist_Right/Ring_Right_1
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Right/Elbow_Right_2/Wrist_Right/Ring_Right_1/Ring_Right_2
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Right/Elbow_Right_2/Wrist_Right/Ring_Right_1/Ring_Right_2/Ring_Right_3
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Right/Elbow_Right_2/Wrist_Right/Ring_Right_1/Ring_Right_2/Ring_Right_3/Ring_Right_4
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Right/Elbow_Right_2/Wrist_Right/Thumb_Right_1
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Right/Elbow_Right_2/Wrist_Right/Thumb_Right_1/Thumb_Right_2
+        weight: 1
+      - path: Keiko_Base/Hip/Spine_1/Spine_2/Spine_3/Shoulder_Right/Elbow_Right_2/Wrist_Right/Thumb_Right_1/Thumb_Right_2/Thumb_Right_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: d34d58b346ca12e4e8f22c521241f7cf
+timeCreated: 1478748346
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ankleJoint_left
+    100002: ankleJoint_right
+    100004: clavicalJoint_left
+    100006: clavicalJoint_right
+    100008: elbowJoint_left
+    100010: elbowJoint_right
+    100012: footJoint1_left
+    100014: footJoint1_right
+    100016: footJoint2_left
+    100018: footJoint2_right
+    100020: //RootNode
+    100022: handJoint_left
+    100024: handJoint_right
+    100026: headJoint_bot
+    100028: headJoint_top
+    100030: hipJoint_left
+    100032: hipJoint_right
+    100034: kneeJoint_left
+    100036: kneeJoint_right
+    100038: neckJoint
+    100040: pelvicJoint
+    100042: rootJoint
+    100044: shoulderJoint_left
+    100046: shoulderJoint_right
+    100048: spineJoint1
+    100050: spineJoint2
+    100052: spineJoint3
+    100054: wristJoint_left
+    100056: wristJoint_right
+    400000: ankleJoint_left
+    400002: ankleJoint_right
+    400004: clavicalJoint_left
+    400006: clavicalJoint_right
+    400008: elbowJoint_left
+    400010: elbowJoint_right
+    400012: footJoint1_left
+    400014: footJoint1_right
+    400016: footJoint2_left
+    400018: footJoint2_right
+    400020: //RootNode
+    400022: handJoint_left
+    400024: handJoint_right
+    400026: headJoint_bot
+    400028: headJoint_top
+    400030: hipJoint_left
+    400032: hipJoint_right
+    400034: kneeJoint_left
+    400036: kneeJoint_right
+    400038: neckJoint
+    400040: pelvicJoint
+    400042: rootJoint
+    400044: shoulderJoint_left
+    400046: shoulderJoint_right
+    400048: spineJoint1
+    400050: spineJoint2
+    400052: spineJoint3
+    400054: wristJoint_left
+    400056: wristJoint_right
+    7400000: GuardWalking
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: GuardWalking
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: rootJoint
+        weight: 1
+      - path: rootJoint/pelvicJoint
+        weight: 1
+      - path: rootJoint/pelvicJoint/hipJoint_left
+        weight: 1
+      - path: rootJoint/pelvicJoint/hipJoint_left/kneeJoint_left
+        weight: 1
+      - path: rootJoint/pelvicJoint/hipJoint_left/kneeJoint_left/ankleJoint_left
+        weight: 1
+      - path: rootJoint/pelvicJoint/hipJoint_left/kneeJoint_left/ankleJoint_left/footJoint1_left
+        weight: 1
+      - path: rootJoint/pelvicJoint/hipJoint_left/kneeJoint_left/ankleJoint_left/footJoint1_left/footJoint2_left
+        weight: 1
+      - path: rootJoint/pelvicJoint/hipJoint_right
+        weight: 1
+      - path: rootJoint/pelvicJoint/hipJoint_right/kneeJoint_right
+        weight: 1
+      - path: rootJoint/pelvicJoint/hipJoint_right/kneeJoint_right/ankleJoint_right
+        weight: 1
+      - path: rootJoint/pelvicJoint/hipJoint_right/kneeJoint_right/ankleJoint_right/footJoint1_right
+        weight: 1
+      - path: rootJoint/pelvicJoint/hipJoint_right/kneeJoint_right/ankleJoint_right/footJoint1_right/footJoint2_right
+        weight: 1
+      - path: rootJoint/spineJoint1
+        weight: 1
+      - path: rootJoint/spineJoint1/spineJoint2
+        weight: 1
+      - path: rootJoint/spineJoint1/spineJoint2/spineJoint3
+        weight: 1
+      - path: rootJoint/spineJoint1/spineJoint2/spineJoint3/clavicalJoint_left
+        weight: 1
+      - path: rootJoint/spineJoint1/spineJoint2/spineJoint3/clavicalJoint_left/shoulderJoint_left
+        weight: 1
+      - path: rootJoint/spineJoint1/spineJoint2/spineJoint3/clavicalJoint_left/shoulderJoint_left/elbowJoint_left
+        weight: 1
+      - path: rootJoint/spineJoint1/spineJoint2/spineJoint3/clavicalJoint_left/shoulderJoint_left/elbowJoint_left/wristJoint_left
+        weight: 1
+      - path: rootJoint/spineJoint1/spineJoint2/spineJoint3/clavicalJoint_left/shoulderJoint_left/elbowJoint_left/wristJoint_left/handJoint_left
+        weight: 1
+      - path: rootJoint/spineJoint1/spineJoint2/spineJoint3/clavicalJoint_right
+        weight: 1
+      - path: rootJoint/spineJoint1/spineJoint2/spineJoint3/clavicalJoint_right/shoulderJoint_right
+        weight: 1
+      - path: rootJoint/spineJoint1/spineJoint2/spineJoint3/clavicalJoint_right/shoulderJoint_right/elbowJoint_right
+        weight: 1
+      - path: rootJoint/spineJoint1/spineJoint2/spineJoint3/clavicalJoint_right/shoulderJoint_right/elbowJoint_right/wristJoint_right
+        weight: 1
+      - path: rootJoint/spineJoint1/spineJoint2/spineJoint3/clavicalJoint_right/shoulderJoint_right/elbowJoint_right/wristJoint_right/handJoint_right
+        weight: 1
+      - path: rootJoint/spineJoint1/spineJoint2/spineJoint3/neckJoint
+        weight: 1
+      - path: rootJoint/spineJoint1/spineJoint2/spineJoint3/neckJoint/headJoint_bot
+        weight: 1
+      - path: rootJoint/spineJoint1/spineJoint2/spineJoint3/neckJoint/headJoint_bot/headJoint_top
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.96
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

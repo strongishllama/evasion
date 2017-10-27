@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: eb1f635236e52334bb0762de8da5f009
+timeCreated: 1477537834
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ankleJoint_left
+    100004: ankleJoint_right
+    100006: clavicalJoint_left
+    100008: clavicalJoint_right
+    100010: elbowJoint_left
+    100012: elbowJoint_right
+    100014: footJoint1_left
+    100016: footJoint1_right
+    100018: footJoint2_left
+    100020: footJoint2_right
+    100022: Guard
+    100024: handJoint_left
+    100026: handJoint_right
+    100028: headJoint_bot
+    100030: headJoint_top
+    100032: hipJoint_left
+    100034: hipJoint_right
+    100036: kneeJoint_left
+    100038: kneeJoint_right
+    100040: neckJoint
+    100042: pelvicJoint
+    100044: rootJoint
+    100046: shoulderJoint_left
+    100048: shoulderJoint_right
+    100050: spineJoint1
+    100052: spineJoint2
+    100054: spineJoint3
+    100056: wristJoint_left
+    100058: wristJoint_right
+    100060: Guard1
+    400000: //RootNode
+    400002: ankleJoint_left
+    400004: ankleJoint_right
+    400006: clavicalJoint_left
+    400008: clavicalJoint_right
+    400010: elbowJoint_left
+    400012: elbowJoint_right
+    400014: footJoint1_left
+    400016: footJoint1_right
+    400018: footJoint2_left
+    400020: footJoint2_right
+    400022: Guard
+    400024: handJoint_left
+    400026: handJoint_right
+    400028: headJoint_bot
+    400030: headJoint_top
+    400032: hipJoint_left
+    400034: hipJoint_right
+    400036: kneeJoint_left
+    400038: kneeJoint_right
+    400040: neckJoint
+    400042: pelvicJoint
+    400044: rootJoint
+    400046: shoulderJoint_left
+    400048: shoulderJoint_right
+    400050: spineJoint1
+    400052: spineJoint2
+    400054: spineJoint3
+    400056: wristJoint_left
+    400058: wristJoint_right
+    400060: Guard1
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Guard1
+    4300002: Guard
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Guard
+    13700002: Guard1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LevelUp
+  - eyes
+  - Character
+  - The Light
+  - Level
+  - pauseMenu
+  - QUIT
+  - RESUME
+  - MAINMENU
+  - SoundManager
+  - MusicManager
+  - EndLevel
+  - GameManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - MusicManager
+  - Walls
+  - Floor
+  - Character
+  - Guard 01
+  - Guard 02
+  - Guard 03
+  - end level
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

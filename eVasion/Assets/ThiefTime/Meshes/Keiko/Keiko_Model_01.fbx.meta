@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 46462d7aeb737724f9c9a682d9729988
+timeCreated: 1477535208
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ankle_Left
+    100004: Ankle_Right
+    100006: Base
+    100008: Elbow_Left_2
+    100010: Elbow_Right_2
+    100012: Foot_Left
+    100014: Foot_Right
+    100016: Head
+    100018: Hip
+    100020: Hip_Left
+    100022: Hip_Right
+    100024: Keiko_Base
+    100026: Keiko_Model
+    100028: Knee_Left
+    100030: Knee_Right
+    100032: Middle_Left_1
+    100034: Middle_Left_2
+    100036: Middle_Left_3
+    100038: Middle_Left_4
+    100040: Middle_Right_2
+    100042: Middle_Right_3
+    100044: Middle_Right_4
+    100046: Neck_1
+    100048: Neck_2
+    100050: Pinky_Left_1
+    100052: Pinky_Left_2
+    100054: Pinky_Left_3
+    100056: Pinky_Left_4
+    100058: Pinky_Right_1
+    100060: Pinky_Right_2
+    100062: Pinky_Right_3
+    100064: Pinky_Right_4
+    100066: Pointer_Left_1
+    100068: Pointer_Left_2
+    100070: Pointer_Left_3
+    100072: Pointer_Left_4
+    100074: Pointer_Right_1
+    100076: Pointer_Right_2
+    100078: Pointer_Right_3
+    100080: Pointer_Right_4
+    100082: RightMiddle_1
+    100084: Ring_Left_1
+    100086: Ring_Left_2
+    100088: Ring_Left_3
+    100090: Ring_Left_4
+    100092: Ring_Right_1
+    100094: Ring_Right_2
+    100096: Ring_Right_3
+    100098: Ring_Right_4
+    100100: Shoulder_Left
+    100102: Shoulder_Right
+    100104: Spine_1
+    100106: Spine_2
+    100108: Spine_3
+    100110: Thumb_Left_1
+    100112: Thumb_Left_2
+    100114: Thumb_Left_3
+    100116: Thumb_Right_1
+    100118: Thumb_Right_2
+    100120: Thumb_Right_3
+    100122: Wrist_Left
+    100124: Wrist_Right
+    400000: //RootNode
+    400002: Ankle_Left
+    400004: Ankle_Right
+    400006: Base
+    400008: Elbow_Left_2
+    400010: Elbow_Right_2
+    400012: Foot_Left
+    400014: Foot_Right
+    400016: Head
+    400018: Hip
+    400020: Hip_Left
+    400022: Hip_Right
+    400024: Keiko_Base
+    400026: Keiko_Model
+    400028: Knee_Left
+    400030: Knee_Right
+    400032: Middle_Left_1
+    400034: Middle_Left_2
+    400036: Middle_Left_3
+    400038: Middle_Left_4
+    400040: Middle_Right_2
+    400042: Middle_Right_3
+    400044: Middle_Right_4
+    400046: Neck_1
+    400048: Neck_2
+    400050: Pinky_Left_1
+    400052: Pinky_Left_2
+    400054: Pinky_Left_3
+    400056: Pinky_Left_4
+    400058: Pinky_Right_1
+    400060: Pinky_Right_2
+    400062: Pinky_Right_3
+    400064: Pinky_Right_4
+    400066: Pointer_Left_1
+    400068: Pointer_Left_2
+    400070: Pointer_Left_3
+    400072: Pointer_Left_4
+    400074: Pointer_Right_1
+    400076: Pointer_Right_2
+    400078: Pointer_Right_3
+    400080: Pointer_Right_4
+    400082: RightMiddle_1
+    400084: Ring_Left_1
+    400086: Ring_Left_2
+    400088: Ring_Left_3
+    400090: Ring_Left_4
+    400092: Ring_Right_1
+    400094: Ring_Right_2
+    400096: Ring_Right_3
+    400098: Ring_Right_4
+    400100: Shoulder_Left
+    400102: Shoulder_Right
+    400104: Spine_1
+    400106: Spine_2
+    400108: Spine_3
+    400110: Thumb_Left_1
+    400112: Thumb_Left_2
+    400114: Thumb_Left_3
+    400116: Thumb_Right_1
+    400118: Thumb_Right_2
+    400120: Thumb_Right_3
+    400122: Wrist_Left
+    400124: Wrist_Right
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Keiko_Model
+    9500000: //RootNode
+    13700000: Keiko_Model
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
